@@ -10,5 +10,4 @@ public class Maths {
     Maths m = new Maths();
     m.add();
   }
-
 }
