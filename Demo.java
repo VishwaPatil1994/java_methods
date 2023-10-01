@@ -1,3 +1,5 @@
+// Method without arguments and without return statements.
+
 class Demo {
   void display() {
     System.out.println("Hello World!");
