@@ -1,5 +1,6 @@
 public class Metdemo {
-  void multiplication(int a, int b, int c) {
+  void multiplication(int a, int b, int c) // method with argument and without return type.
+  {
     System.out.println("The multiplication of 3 numbers is " + (a * b * c));
   }
 
